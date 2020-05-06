@@ -16,6 +16,8 @@ def game_hash()
       :steals => 3, 
       :blocks => 1, 
       :slam_dunks => 1 
+  
+    }
   },
   
   :away => {
@@ -24,7 +26,6 @@ def game_hash()
     :players => {
       :player_name => [jeff_adrien, bismack_biyombo, desagna_diop, ben_gordon, kemba_walker]
     }
-}
-    
   }
+}
 end
