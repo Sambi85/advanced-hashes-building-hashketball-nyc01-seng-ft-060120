@@ -9,7 +9,7 @@ hash = {
     :team_name => {},
     :colors => {},
     :players => {
-      :player_name => "Alan_Anderson"
+      :player_name => "Alan Anderson"
       
     }
   },
