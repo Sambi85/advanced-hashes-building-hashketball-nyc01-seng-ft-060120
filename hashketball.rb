@@ -14,6 +14,5 @@ hash = {
     :team_name => {},
     :colors => {}
     :players => {}
-  }
 }
 end
