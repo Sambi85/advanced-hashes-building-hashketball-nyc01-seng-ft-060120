@@ -23,9 +23,7 @@ hash = {
         end
 
         expect(player_stats.keys).to match_array(example_player_hash.keys)
-        expect(player_stats.values).to match_array(example_player_hash.values)
-      end
-    end
+        expect(player_stats.values).to match_array(example_player_hash.
   
   
   
