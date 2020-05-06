@@ -8,7 +8,7 @@ def game_hash()
     :colors => {}
     :players => {
       :player_name => []
-      
+    }
     }
   },
   
@@ -16,7 +16,7 @@ def game_hash()
     :team_name => {},
     :colors => {}
     :players => {
-      :player_name => [jeff_adrien, bismack_biyombo, desagna_diop, ben_gordon, kemba_walker]
+      :player_name => []
     }
   }
 }
