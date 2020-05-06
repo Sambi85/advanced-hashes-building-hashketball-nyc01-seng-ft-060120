@@ -8,8 +8,7 @@ hash = {
     :colors => {}
     :players => {
       :player_name => {}
-    }
-  },
+},
   
   :away => {
     :team_name => {},
