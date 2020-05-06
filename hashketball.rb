@@ -8,8 +8,8 @@ hash = {
   :home => {
     :team_name => {},
     :colors => {},
-    :players => 
-      [:player_name => "Alan Anderson"]
+    :players =>{ 
+      :player_name => {}
   },
   
 
