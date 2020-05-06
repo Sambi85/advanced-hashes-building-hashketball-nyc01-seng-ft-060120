@@ -4,11 +4,12 @@ require "pry"
 def game_hash()
 hash = {
   :home => {
-    :team_name => {}
-    
+    :team_name => {},
+    :colors => {}
   },
   :away => {
-    :team_name => {}
+    :team_name => {},
+    :colors => {}
   }
 
   
