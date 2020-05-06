@@ -7,9 +7,9 @@ hash = {
   
   :home => {
     
-    :team_name => {},
-    :colors => {},
-    :players => { 
+    :team_name => "Brooklyn Nets",
+    :colors => ["Black","White"],
+    :players => [
       
       :player_name => { 
         
@@ -24,7 +24,7 @@ hash = {
           :slam_dunks => 1 
         
       }
-    }
+    ]
   },
   
 
