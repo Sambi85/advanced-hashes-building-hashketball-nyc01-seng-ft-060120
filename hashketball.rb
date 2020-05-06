@@ -9,11 +9,10 @@ hash = {
     :team_name => {},
     :colors => {},
     :players => 
-      [:player_name => "Alan Anderson"]
+      [:player_name => "Alan Anderson"] 
   },
   
-[alan_a
-  nderson, reggie_evans, brook_lopez, mason_plumlee, jason_terry]
+
   :away => {
     :team_name => {},
     :colors => {},
