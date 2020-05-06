@@ -6,9 +6,11 @@ def game_hash
 hash = {
   
   :home => {
+    
     :team_name => {},
     :colors => {},
     :players => { 
+      
       :player_name => { 
         
           :player_name => "Alan Anderson",
@@ -19,7 +21,8 @@ hash = {
           :assists => 12,
           :steals => 3,
           :blocks => 1,
-          :slam_dunks => 1 
+          :slam_dunks => 1
+    }
   },
   
 
