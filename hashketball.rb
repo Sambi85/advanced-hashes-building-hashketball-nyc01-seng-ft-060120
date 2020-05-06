@@ -8,7 +8,7 @@ def game_hash()
     :colors => {}
     :players => {
       :player_name => []
-    }
+      
     }
   },
   
@@ -19,6 +19,5 @@ def game_hash()
       :player_name => []
     }
   }
-}
 }
 end
