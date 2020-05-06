@@ -29,8 +29,8 @@ hash = {
   
 
   :away => {
-    :team_name => {},
-    :colors => {},
+    :team_name => "",
+    :colors => [],
     :players => {
       :player_name => {}
     }
