@@ -6,12 +6,16 @@ hash = {
   :home => {
     :team_name => {},
     :colors => {},
-    :players => {}
+    :players => {
+      :player_name => {}
+    }
   },
   :away => {
     :team_name => {},
     :colors => {},
-    :players => {}
+    :players => {
+      :player_name => {}
+    }
   }
 
   
