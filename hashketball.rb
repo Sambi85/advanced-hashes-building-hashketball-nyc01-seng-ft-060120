@@ -11,7 +11,7 @@ hash = {
     :team_name => {},
     :colors => {},
     :players => {
-      :player_name => home.each do |home| "#{home}" end
+      :player_name => "Alan_Anderson"
       
     }
   },
