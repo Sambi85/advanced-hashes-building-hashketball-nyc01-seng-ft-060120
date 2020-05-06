@@ -12,8 +12,8 @@ hash = {
       [:player_name => "Alan Anderson"]
   },
   
-[alan_anderson, reggie_evans, brook_lopez, mason_plumlee, jason_terry]
-  
+[alan_a
+  nderson, reggie_evans, brook_lopez, mason_plumlee, jason_terry]
   :away => {
     :team_name => {},
     :colors => {},
