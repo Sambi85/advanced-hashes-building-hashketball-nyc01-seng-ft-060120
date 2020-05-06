@@ -11,7 +11,7 @@ hash = {
     :colors => ["Black","White"],
     :players => [
       
-      :player_name => { 
+      
         
           :player_name => "Alan Anderson",
           :number => 0,
